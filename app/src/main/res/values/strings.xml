@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">List Karakter Wanita Anime</string>
+    <string name="nama_karakter">Nama Karakter</string>
+    <string name="deskripsi">deskripsi</string>
+    <string name="about">about</string>
+    <string name="nama">Zaenal Alfian</string>
+    <string name="email">zaenal.alfian@mhs.rosma.ac.id</string>
+
+    <string-array name="data_nama">
+        <item>Nami</item>
+        <item>Saber</item>
+        <item>Erza Scarlet</item>
+        <item>Asuna</item>
+        <item>Esdeath</item>
+        <item>Mikasa Ackerman</item>
+        <item>Rem</item>
+        <item>Zero Two</item>
+        <item>Miku Nakano</item>
+        <item>Mai Sakurajima</item>
+        <item>Shinobu Kocho (Demon Slayer)</item>
+        <item>Maki Oze (Fire Force)</item>
+        <item>Kaguya Shinomiya (Kaguya-Sama: Love Is War)</item>
+        <item>Makima (Chainsaw Man)</item>
+    </string-array>
+
+    <string-array name="data_judul">
+        <item>One Piece</item>
+        <item>Fate/Stay Night</item>
+        <item>Fairy Tail</item>
+        <item>Sword Art Online</item>
+        <item>Akame Ga Kill</item>
+        <item>Attack On Titan</item>
+        <item>Re:Zero</item>
+        <item>Darling in the Franxx</item>
+        <item>The Quintessential Quintuplets</item>
+        <item>Rascal Does Not Dream Of Bunny Girl Senpai</item>
+        <item>Demon Slayer: Kimetsu no Yaiba</item>
+        <item>Fire Force</item>
+        <item>Kaguya-Sama: Love Is War</item>
+        <item>Chainsaw Man</item>
+    </string-array>
+
+    <string-array name="data_deskripsi">
+        <item>Dalam serial One Piece, Eiichiro Oda sengaja membuat karakter wanita yang memiliki proporsi tubuh pinggang sangat langsing dan dada yang menarik perhatian. Meski memiliki banyak saingan, Nami tentu saja tetap dianggap sebagai karakter anime tercantik sekaligus waifu sejuta umat dari One Piece.Nami adalah karakter yang telah muncul sejak awal episode sekaligus merupakan navigator yang handal dan terpercaya dari kru Topi Jerami. Seandainya tidak ada gadis cantik ini, mungkin saja Monkey D. Luffy dan Roronoa Zoro sudah tersesat di lautan.</item>
+        <item>Artoria Pendragon merupakan servant kelas Saber yang kerap kali dipanggil dengan sebutan itu. Ia adalah petarung ahli yang tidak takut untuk menghabisi lawannya dalam pertarungan. Dia merupakan orang yang bisa dipercaya dan selalu berusaha menyelesaikan pekerjaannya sekuat tenaga. Saber sudah membuktikannya dalam berbagai kesempatan bahwa ia lebih kuat dari karakter lainnya. Selain itu, ia juga mempunyai kompas moral yang kuat, tak akan pernah menyimpang, serta selalu berusaha menyelesaikan konflik dengan cara yang adil untuk seluruh pihak terkait. Dengan penampilan dan segala sifatnya tersebut, Saber dapat dengan mudah menjadi karakter anime tercantik dan terpopuler di Fate series.</item>
+        <item>Fairy Tail merupakan serial yang menawarkan beberapa waifu potensial, muali dari Lucy Heartfilia, Juvia Lockser, hingga Levy McGarden. Dapat dikatakan bahwa Erza Scarlet bersama dengan pedangnya merupakan salah satu karakter anime tercantik sekaligus calon waifu nomor satu dari Fairy Tail. Banyak hal yang menarik tentangnya mulai dari sikap yang keras dan adil, keterampilan bertarungnya yang mengesankan, hingga sisi cintanya yang tersembunyi. Erza tertarik dengan banyak hal seperti armor besi, kue, teater, dan Jellal Fernandez. Salah satu hal yang mengesankan tentang gadis ini ialah dia selalu bertindak sebagai kakak yang bertanggung jawab untuk Natsu dan Gray.</item>
+        <item>Asuna tentu saja menjadi karakter anime tercantik sekaligus waifu populer, berasal dari anime Sword Art Online. Pada mulanya, Asuna bukanlah orang yang peduli dengan kematian sebelum bertemu dengan Kirito. Pertemuan tersebut secara drastis mengubah pandangan hidup dan kepribadian Asuna. Asuna merupakan gadis yang baik hati serta gemar menolong. Ia memiliki sikap yang sama dengan Kirito, yakni tidak dapat begitu saja meninggalkan orang lain yang sedang berada dalam kesulitan. Ia menganggap bahwa Sword Art Online merupakan permainan yang sangat serius serta memiliki tekad untuk menyelesaikannya bersama dengan Kirito.</item>
+        <item>Jenderal Esdeath ialah seorang komandan militer yang populer karena memiliki kekuatan dengan basis es. Ia memiliki pandangan bahwa hanya yang terkuat yang bisa selamat. Esdeath tumbuh di lingkungan yang sangat keras, di mana keberlangsungan sukunya selalu menjadi pertaruhan. Karena hal tersebut, dia menjadi belajar untuk bersikap pragmatis dan sederhana dalam berbagai hal. Dalam seriala Akame Ga Kill, Esdeath mempertahankan sikap tersebut sebagai seorang jenderal. Ia mengatakan bahwa “mahluk yang lemah memang pantas mati sedangkan yang kuat pantas menaklukkan segalanya”. Meski begitu, salah satu karakter anime tercantik ini juga memiliki sisi lembut. Ia dengan mudah menjadi terikat dengan Tatsumi, menjadi semacam pendamping yang benar-benar menyayanginya sebelum akhirnya ia menyadari bahwa sebenarnya Tatsumi adalah musuh.</item>
+        <item>Mikasa Ackerman sudah menjadi teman Eren Yeager sejak mereka masih kecil, walau ada kejadian terbaru yang membuat mereka berpisah. Kata-kata kasar yang dilontarkan oleh Eren terhadap Mikasa memang sangat  kejam, dan tak perlu diragukan lagi bahwa setiap penggemar Attack on Titan akan lebih berpihak pada Mikasa ketimbang pada Eren. Atas kemampuan dan penampilannya, Mikasa menjadi karakter anime tercantik sekaligus waifu populer yang luar biasa. Ia merupakan orang yang perhatian, protektif, dan setia yang juga cukup menarik. Selain itu, ia juga merupakan petarung yang sangat terampil. Melalui cara yang tenang, Mikasa menjadi sinar matahari di dalam kegelapan.</item>
+        <item>Rem merupakan seorang pelayan yang pekerja keras sekaligus setia. Ia adalah teman dari Subaru Natsuki yang berakhir di isekai dalam serial Re:Zero. Saat pertama kali muncul, Rem dan Ram (saudara perempuannya yang memiliki rambut berwarna merah muda) adalah seorang pelayan yang bekerja di perkebunan Mathers, tetapi pekerjaan yang mereka lakukan tak sekadar hal yang bisa mereka lakukan. Fans banyak yang tertarik dengan Rem karena rasa setia serta tanggung jawabnya yang kuat, sifatnya yang santai, keterampilannya dalam bertarung, dan tentu saja penampilannya yang manis nan memukau.</item>
+        <item>Zero Two kerap kali dianggap sebagai tokoh terbaik dari anime Darling in the Franxx. Anime mecha 2010-an ini mempunyai beberapa permasalahan serius, tetapi karakter anime tercantik ini bukanlah salah satunya. Ia diperkenalkan pada awal seri dan langsung disukai penggemarnya.</item>
+        <item>Selalu ada sesuatu yang membuat tertatik dari kelima saudari Nakano, mulai dari Yotsuba yang konyol hingga Nino yang memiliki sifat tsundere, tetapi Miku anak tengah dari saudari tersebut, berhasil menjadi karakter anime tercantik kesayangan fandom The Quintessential Quintuplets. Miku merupakan karakter dandere klasik, gadis yang penyayang, baik hati, lemah lembut, dan sangat pemalu. Miku memiliki suara yang lembut, sangat berkebalikan dengan Itsuki dan Nino. Akan tetapi, ia akan berusaha menjadi yang terbaik untuk membuat Futaro terkesan dan mengungkapkan dengan jujur mengenai keinginannya. Dia bahkan sempat mencoba untuk membuat kue manis, walaupun ia tidak ahli dalam memasak.</item>
+        <item>Mai Sakurajima dari serial Rascal Does Not Dream Of Bunny Girl Senpai merupakan seorang tsundere menyenangkan yang ingin tetap rendah hati walaupun berprofesi sebagai aktris dan model. Ibunya memaksanya utnuk masuk ke industri hiburan sejak usianya yang masih sangat muda, membuat Mai merasa kecewa karena banyak orang yang sekadar melihatnya sebagai karakter yang ia perankan dan bukan dirinya yang sesungguhya. Sindrom remaja Mai membuatnya memiliki anonimitas yang selalu ia inginkan, tetapi ia secara bertahap juga ingin menghapusnya. Meski demikian, Sakuta selalu mencintainya dengan apa adanya serta bersedia membantu untuk menghentikan sindrom tersebut supaya tak bertambah buruk. Mai mungkin mempunyai penampilan luar yang dingin, tetapi ia sangat setia dan memiliki keinginan untuk melindungi orang-orang yang ia sayangi. Pastinya, karakter anime tercantik ini akan masuk ke dalam jajaran waifu sejuta umat.</item>
+        <item>Shinobu Kocho dari serial Demon Slayer: Kimetsu no Yaiba merupakan Hashira Insect. Ia berhasil mencuri perhatian sejak debutnya di arc Gunung Natagumo. Ia mempunyai sikap yang sangat ramah dan ceria kepada semua orang. Walaupun hal tersebut membuatnya memiliki daya tarik tersendiri bagi banyak orang, tetapi melihatnya berhasil mengalahkan iblis yang haus darah dengan senyum tenang cukup menakutkan, ya.</item>
+        <item>Maki Oze merupakan salah satu karakter anime tercantik yang berasal dari serial Fire Force. Ia merupakan petarung tangguh yang tidak pernah mundur dalam menghadapi berbagai bahaya. Selain itu, ia tak pernah merasa takut untuk mengungkapkan apa yang ia pikirkan. Meskipun memiliki penampilan yang tangguh, Maki ialah orang yang romantis bila berhubungan dengan emosinya.</item>
+        <item>Kaguya Shinomiya berasal dari keluarga yang berkuasa dan sangat kaya, tetapi ia tidak mau status keluarganya menjadi penentu dirinya. Sebaliknya, Kaguya memiliki keinginan untuk mengejar kepentingannya sendiri dengan menggunakan kekuatannya sendiri. Kaguya Shinomiya pada awalnya mempunyai persona sebagai ratu es, tetapi itu semua telah berakhir. Sekarang ia menjadi gadis yang perhatian dan berhati hangat yang mendukung semua temannya, muali dari Chika, Yu, hingga Nagisa. Selain itu, dia ia juga merupakan seorang yang jenaka dan berpikiran tajam yang memungkinkannya untuk berkali-kali mengakali Miyuki Shirogane.</item>
+        <item>Yor Forger dari serial Spy X Family hidup di dua dunia, yakni sebagai pegawai balai kota yang sederhana pada siang hari dan menjadi pembunuh bayaran pada malam hari. Meskipun memiliki reputasi sebagai Thorn Princess, kepribadian Yor sebenarnya sama sekali tidak mengintimidasi. Dia mudah merasa bingung serta terlihat naif di berbagao situasi. Kendati demikian, keterampilan seni bela diri yang dikombinasikan dengan keahlian bersenjata membuat Yor menjadi pembunuh yang sangat mematikan. Tanpa berpikir dua kali, ia bisa langsung memotong orang dan keluar tanpa cedera sedikit pun.</item>
+        <item>Makima dari Chainsaw Man dengan cepat menjadi salah satu karakter anime dan manga tercantik dan terpopuler, meskipun ia berstatus sebagai penjahat utama dalam serial tersebut. Banyak karakter wanita dalam serial Chainsaw Man, seperti Power, Kobeni, Himeno, dan Quanxi yang patut dipuji. Walau begitu, Makima menuai pujian terbanyak dari para penggemar. Masih belum diketahui secara pasti mengapa banyak penggemar yang jatuh hati pada Makima, terutama setelah melihat segala tindakan manipulatifnya yang menyeramkan. Tak bisa disangkal bahwa Makima merupakan tokoh antagonis yang ditulis dengan sangat baik yang berhasil memainkan perannya sebagai dalang yang manipulatif. Selian itu, Makima juga memiliki desain karakter yang cantik dan menawan.</item>
+    </string-array>
+
+    <string-array name="data_photo">
+        <item>https://cdnwpseller.gramedia.net/wp-content/uploads/2023/04/Nami_Anime_Post_Timeskip_Infobox-179x300.webp</item>
+        <item>https://cdnwpseller.gramedia.net/wp-content/uploads/2023/04/Saber5-191x300.webp</item>
+        <item>https://cdnwpseller.gramedia.net/wp-content/uploads/2023/04/Erza.webp</item>
+        <item>https://upload.wikimedia.org/wikipedia/en/a/a2/Asuna_Sword_Art_Online.png</item>
+        <item>https://cdnwpseller.gramedia.net/wp-content/uploads/2023/04/esdeath-214x300.webp</item>
+        <item>https://cdnwpseller.gramedia.net/wp-content/uploads/2023/04/Mikasa-1-384x216.webp</item>
+        <item>https://cdnwpseller.gramedia.net/wp-content/uploads/2023/04/Rem-384x216.webp</item>
+        <item>https://cdnwpseller.gramedia.net/wp-content/uploads/2023/04/Zero_Two_appearance-384x384.webp</item>
+        <item>https://upload.wikimedia.org/wikipedia/id/1/1e/Miku_Nakano.png</item>
+        <item>https://cdnwpseller.gramedia.net/wp-content/uploads/2023/04/Mai_Sakurajima-384x216.webp</item>
+        <item>https://cdnwpseller.gramedia.net/wp-content/uploads/2023/04/Shinobu-185x300.webp</item>
+        <item>https://cdnwpseller.gramedia.net/wp-content/uploads/2023/04/Maki-384x384.webp</item>
+        <item>https://cdnwpseller.gramedia.net/wp-content/uploads/2023/04/kaguya-384x216.webp</item>
+        <item>https://cdnwpseller.gramedia.net/wp-content/uploads/2023/04/Yor_Forger-364x455.webp</item>
+        <item>https://cdnwpseller.gramedia.net/wp-content/uploads/2023/04/Monkima-205x300.webp</item>
+    </string-array>
+</resources>
