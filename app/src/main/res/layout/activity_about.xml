@@ -11,7 +11,7 @@
         android:id="@+id/image_profile"
         android:layout_width="138dp"
         android:layout_height="132dp"
-        android:src="@drawable/zaenal"
+        android:src="@drawable/alfian"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
